@@ -11,7 +11,7 @@ After installing JavaFX, go to where you installed it and rename it javafx-swt.j
 
 ## Installation
 #### Ready-made version
-1. Download the [Game.jar]() and move it to the Dread Dawn root folder
+1. Download the [Game.jar](https://github.com/DisZom/Dread-Dawn-Demo-Fix/main/Game.jar) and move it to the Dread Dawn root folder
 2. Create a start.bat and paste this: 
 ```bat
  <Path to java.exe> --module-path <Path to JavaFX\lib> --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.web,javafx.swt -jar Game.jar
