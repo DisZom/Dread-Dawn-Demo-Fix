@@ -1,6 +1,6 @@
 # Dread Dawn Demo Fix
-A simple fix that allows you to run demo of Dread Dawn
- The copyright belongs to the original authors.
+A simple fix that allows you to run demo of Dread Dawn.
+The copyright belongs to the original authors.
 ## Prerequisites
 
 #### 1. You need the Dread Dawn demo files to use this fix
