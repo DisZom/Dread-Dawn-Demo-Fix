@@ -24,8 +24,9 @@ After installing JavaFX, go to where you installed it and rename it javafx-swt.j
 3. You need to open these files in any Java bytecode editor.
 4. Find the bytecode: sipush 2024 and change it to any larger one (for example, sipush 3024) and save it.
 5. Return these files back to jav.jar and rename jav.jar in Game.jar
-6. Create a start.bat and paste this: 
+6. Move it to the Dread Dawn root folder
+7. Create a start.bat and paste this: 
 ```bat
  <Path to java.exe> --module-path <Path to JavaFX\lib> --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.web,javafx.swt -jar Game.jar
 ```
-7. Run start.bat and enjoy the demo
+8. Run start.bat and enjoy the demo
