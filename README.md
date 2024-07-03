@@ -2,10 +2,7 @@
 A simple fix that allows you to run demo of Dread Dawn.
 The copyright belongs to the original authors.
 ## Prerequisites
-
-#### 1. You need the Dread Dawn demo files to use this fix
-I do not know where you can get them
-#### 2. Download and install Java JRE 17 and JavaFX SDK.
+#### Download and install Java JRE 17 and JavaFX SDK.
 I checked it works on: [JRE 17 by Adoptium](https://adoptium.net/temurin/releases/?os=windows&package=jre&version=17&arch=x64) and [OpenJFX](https://gluonhq.com/products/javafx/).
 After installing JavaFX, go to where you installed it and rename it javafx-swt.jar on javafx.swt.jar in the lib folder.
 
