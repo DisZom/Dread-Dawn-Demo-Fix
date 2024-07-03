@@ -22,7 +22,7 @@ After installing JavaFX, go to where you installed it and rename it javafx-swt.j
 1. You need to get the jav.jar from the Temp folder while the original exe file is running.
 2. Open the jav.jar as an archive and extract from the Game folder MyPanel.class and ReaderImage.class
 3. You need to open these files in any Java bytecode editor.
-4. Find the bytecode: sipush 2024 and change it to any larger one (for example, sipush 3024) and save it.
+4. Find the bytecode: sipush 2024, change it to: sipush 3024, and save it.
 5. Return these files back to jav.jar and rename jav.jar in Game.jar
 6. Move it to the Dread Dawn root folder
 7. Create a start.bat and paste this: 
