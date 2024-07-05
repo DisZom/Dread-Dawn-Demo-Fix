@@ -16,7 +16,7 @@ After installing JavaFX, go to where you installed it and rename javafx-swt.jar 
 3. Run start.bat and enjoy the demo
 
 #### Manual
-1. You need to get the jav.jar from the Temp folder while the original exe file is running.
+1. You need to copy the jav.jar from the Temp folder while the original exe file is running.
 2. Open the jav.jar as an archive and extract from the Game folder MyPanel.class and ReaderImage.class
 3. You need to open these files in any Java bytecode editor.
 4. Find the bytecode: sipush 2024, change it to: sipush 3024, and save it.
