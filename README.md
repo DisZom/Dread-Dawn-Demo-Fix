@@ -1,10 +1,10 @@
 # Dread Dawn Demo Fix
-A simple fix that allows you to run demo of Dread Dawn.
-The copyright belongs to the original authors.
+#### A simple fix that allows you to run demo of Dread Dawn. The copyright belongs to the original authors.
 
-## Easy way
-Just change the date to February 1 2024, after that the demo will start.
+# Easy way
+#### Just change the date to February 1 2024, after that the demo will start.
 
+# Hard way
 ## Prerequisites
 #### Download and install Java JRE 17 and JavaFX SDK.
 I checked it works on: [JRE 17 by Adoptium](https://adoptium.net/temurin/releases/?os=windows&package=jre&version=17&arch=x64) and [OpenJFX](https://gluonhq.com/products/javafx/).
